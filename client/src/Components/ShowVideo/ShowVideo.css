@@ -1,0 +1,39 @@
+.video_ShowVideo{
+    cursor: pointer;
+    height: 70%;
+    width: calc(100% - 0.8rem);
+    margin: 0.4rem;
+    margin-bottom: 0;
+    border: 1px solid rgba(128, 128, 128, 0.532);
+}
+
+.video_description{
+    display: flex;
+    height: 4rem;
+    margin: auto auto;
+}
+
+.video_details{
+    width: 80%;
+    margin: 0.1rem;
+    padding: 0.1rem;
+    color: aliceblue;
+    height: fit-content;
+}
+
+.title_vid_ShowVideo{
+    margin: 0;
+    text-align: clip;
+    font-size: large;
+    display: flex;
+    color: antiquewhite;
+    font-weight: bolder;
+}
+
+.vid_views_UploadTime{
+    font-size: medium;
+    color: rgba(250, 235, 215, 0.555);
+    margin: 0.2rem;
+    display: flex;
+}
+
